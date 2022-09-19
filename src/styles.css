@@ -87,3 +87,16 @@ button {
   font-weight: 300;
   padding: 3px;
 }
+
+.header {
+  margin: 10px 0;
+}
+
+.github_btn {
+  display: block;
+  margin: 0 auto;
+}
+
+.github_a {
+  color: white;
+}

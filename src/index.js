@@ -26,8 +26,6 @@ function handleSubmit (e) {
   search(cityInput.value);
 }
 
-search('Lviv');
-
 let searchBtn = document.querySelector('.search_btn');
 searchBtn.addEventListener('click', handleSubmit);
 
